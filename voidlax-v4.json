@@ -54,19 +54,19 @@
       "#9b9b9b14"
     ],
     "BACKGROUND_BASE_LOW": [
-      "#000000b8",
-      "#000000b8",
-      "#000000b8"
+      "#000000",
+      "#000000",
+      "#000000"
     ],
     "BACKGROUND_BASE_LOWER": [
-      "#000000b8",
-      "#000000b8",
-      "#000000b8"
+      "#000000",
+      "#000000",
+      "#000000"
     ],
     "BACKGROUND_BASE_LOWEST": [
-      "#0a0a0bd9",
-      "#0a0a0bd9",
-      "#0a0a0bd9"
+      "#090909",
+      "#090909",
+      "#090909"
     ],
     "BACKGROUND_BRAND": [
       "#2e7a6a",
@@ -74,9 +74,9 @@
       "#2e7a6a"
     ],
     "BACKGROUND_CODE": [
-      "#0a0a0be6",
-      "#0a0a0be6",
-      "#0a0a0be6"
+      "#09090a",
+      "#09090a",
+      "#09090a"
     ],
     "BACKGROUND_FEEDBACK_CRITICAL": [
       "#e06c6c1f",
@@ -109,14 +109,14 @@
       "#e6e6e60f"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#00000080",
-      "#00000080",
-      "#00000080"
+      "#000000",
+      "#000000",
+      "#000000"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#000000b8",
-      "#000000b8",
-      "#000000b8"
+      "#000000",
+      "#000000",
+      "#000000"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#e6e6e626",
@@ -164,19 +164,19 @@
       "#18181b"
     ],
     "BACKGROUND_PRIMARY": [
-      "transparent",
-      "transparent",
-      "transparent"
+      "#000000",
+      "#000000",
+      "#000000"
     ],
     "BACKGROUND_SECONDARY": [
-      "#000000b8",
-      "#000000b8",
-      "#000000b8"
+      "#000000",
+      "#000000",
+      "#000000"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#000000b8",
-      "#000000b8",
-      "#000000b8"
+      "#000000",
+      "#000000",
+      "#000000"
     ],
     "BACKGROUND_SURFACE_HIGH": [
       "#111113",
@@ -189,9 +189,9 @@
       "#18181b"
     ],
     "BACKGROUND_TERTIARY": [
-      "#000000b8",
-      "#000000b8",
-      "#000000b8"
+      "#000000",
+      "#000000",
+      "#000000"
     ],
     "BACKGROUND_VOICE_MUTED": [
       "#cf30301f",
@@ -224,9 +224,9 @@
       "#000000cc"
     ],
     "BG_BASE_PRIMARY": [
-      "transparent",
-      "transparent",
-      "transparent"
+      "#000000",
+      "#000000",
+      "#000000"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
       "#111113",
@@ -299,9 +299,9 @@
       "#4bb49c"
     ],
     "CARD_BACKGROUND_DEFAULT": [
-      "#0a0a0bcc",
-      "#0a0a0bcc",
-      "#0a0a0bcc"
+      "#080809",
+      "#080809",
+      "#080809"
     ],
     "CARD_BORDER_DEFAULT": [
       "#e6e6e626",
@@ -319,9 +319,9 @@
       "#e6e6e61a"
     ],
     "CARD_PRIMARY_BG": [
-      "#0a0a0bcc",
-      "#0a0a0bcc",
-      "#0a0a0bcc"
+      "#080809",
+      "#080809",
+      "#080809"
     ],
     "CARD_PRIMARY_PRESSED_BG": [
       "#18181b",
@@ -339,9 +339,9 @@
       "#9b9b9b1f"
     ],
     "CARD_SECONDARY_BG": [
-      "#111113cc",
-      "#111113cc",
-      "#111113cc"
+      "#0e0e0f",
+      "#0e0e0f",
+      "#0e0e0f"
     ],
     "CARD_SECONDARY_PRESSED_BG": [
       "#18181b",
@@ -354,9 +354,9 @@
       "#8f8f8f"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#0a0a0bd9",
-      "#0a0a0bd9",
-      "#0a0a0bd9"
+      "#090909",
+      "#090909",
+      "#090909"
     ],
     "CHANNEL_BACKGROUND_DEFAULT": [
       "#090909",
@@ -374,9 +374,9 @@
       "#575757"
     ],
     "CHAT_BACKGROUND": [
-      "transparent",
-      "transparent",
-      "transparent"
+      "#000000",
+      "#000000",
+      "#000000"
     ],
     "CHAT_BANNER_BG": [
       "#0c0c0c",
@@ -399,9 +399,9 @@
       "#7ad7c2"
     ],
     "CHAT_INPUT_BACKGROUND": [
-      "#0a0a0bd9",
-      "#0a0a0bd9",
-      "#0a0a0bd9"
+      "#090909",
+      "#090909",
+      "#090909"
     ],
     "CHAT_INPUT_ICON_DEFAULT_TINT": [
       "#8f8f8f",
@@ -634,9 +634,9 @@
       "#e6e6e626"
     ],
     "EMBED_BACKGROUND": [
-      "#0a0a0bd9",
-      "#0a0a0bd9",
-      "#0a0a0bd9"
+      "#090909",
+      "#090909",
+      "#090909"
     ],
     "EMBED_BACKGROUND_ALTERNATE": [
       "#0c0c0c",
@@ -1019,14 +1019,14 @@
       "#e6e6e61a"
     ],
     "MOBILE_CHATINPUT_BACKGROUND_ACTIVE": [
-      "#18181be6",
-      "#18181be6",
-      "#18181be6"
+      "#161618",
+      "#161618",
+      "#161618"
     ],
     "MOBILE_CHATINPUT_BACKGROUND_DEFAULT": [
-      "#111113e6",
-      "#111113e6",
-      "#111113e6"
+      "#0f0f11",
+      "#0f0f11",
+      "#0f0f11"
     ],
     "MOBILE_CHATINPUT_BORDER_ACTIVE": [
       "#e6e6e657",
@@ -1074,9 +1074,9 @@
       "#0a0a0b"
     ],
     "MOBILE_EMBED_BACKGROUND_DEFAULT": [
-      "#0a0a0bd9",
-      "#0a0a0bd9",
-      "#0a0a0bd9"
+      "#090909",
+      "#090909",
+      "#090909"
     ],
     "MOBILE_EMOJI_BUTTON_BACKGROUND": [
       "#9b9b9b1f",
@@ -1089,14 +1089,14 @@
       "#0a0a0b"
     ],
     "MOBILE_FLOATINGBAR_BACKGROUND": [
-      "#111113e6",
-      "#111113e6",
-      "#111113e6"
+      "#0f0f11",
+      "#0f0f11",
+      "#0f0f11"
     ],
     "MOBILE_FLOATINGBAR_BACKGROUND_HIGHER": [
-      "#18181be6",
-      "#18181be6",
-      "#18181be6"
+      "#161618",
+      "#161618",
+      "#161618"
     ],
     "MOBILE_FLOATINGBAR_BACKGROUND_NAMEPLATE": [
       "#0f0f0f",
@@ -1189,9 +1189,9 @@
       "#111113"
     ],
     "MOBILE_TYPING_INDICATOR_BACKGROUND_DEFAULT": [
-      "#0a0a0bd9",
-      "#0a0a0bd9",
-      "#0a0a0bd9"
+      "#090909",
+      "#090909",
+      "#090909"
     ],
     "MOBILE_UNREADBAR_TEXT_DEFAULT": [
       "#7ad7c2",
@@ -1239,9 +1239,9 @@
       "#0a0a0b"
     ],
     "PANEL_BG": [
-      "#000000b8",
-      "#000000b8",
-      "#000000b8"
+      "#000000",
+      "#000000",
+      "#000000"
     ],
     "POLLS_NORMAL_IMAGE_BACKGROUND": [
       "#0c0c0c",
@@ -1354,9 +1354,9 @@
       "#e6e6e6"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#111113e6",
-      "#111113e6",
-      "#111113e6"
+      "#0f0f11",
+      "#0f0f11",
+      "#0f0f11"
     ],
     "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
       "#111111",
@@ -1374,9 +1374,9 @@
       "#e6e6e657"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "transparent",
-      "transparent",
-      "transparent"
+      "#00000000",
+      "#00000000",
+      "#00000000"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "#e6e6e657",
@@ -1384,9 +1384,9 @@
       "#e6e6e657"
     ],
     "SCROLLBAR_THIN_TRACK": [
-      "transparent",
-      "transparent",
-      "transparent"
+      "#00000000",
+      "#00000000",
+      "#00000000"
     ],
     "SHARE_CHAT_INPUT_BACKGROUND": [
       "#111113",
@@ -1419,9 +1419,9 @@
       "#e6e6e61a"
     ],
     "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
-      "transparent",
-      "transparent",
-      "transparent"
+      "#000000",
+      "#000000",
+      "#000000"
     ],
     "STANDALONE_CHANNEL_HEADER_BORDER": [
       "#e6e6e626",
@@ -1494,9 +1494,9 @@
       "#101010"
     ],
     "TABLEROW_BACKGROUND_DEFAULT": [
-      "#0a0a0bcc",
-      "#0a0a0bcc",
-      "#0a0a0bcc"
+      "#080809",
+      "#080809",
+      "#080809"
     ],
     "TABLEROW_BACKGROUND_PRESSED": [
       "#18181b",
@@ -1509,9 +1509,9 @@
       "#8f8f8f"
     ],
     "TAB_BAR_BACKGROUND": [
-      "#0a0a0bd9",
-      "#0a0a0bd9",
-      "#0a0a0bd9"
+      "#090909",
+      "#090909",
+      "#090909"
     ],
     "TAB_LABEL_TEXT_DEFAULT": [
       "#575757",
@@ -1704,9 +1704,9 @@
       "#fbfbfb"
     ],
     "TYPING_INDICATOR_BG": [
-      "#0a0a0bd9",
-      "#0a0a0bd9",
-      "#0a0a0bd9"
+      "#090909",
+      "#090909",
+      "#090909"
     ],
     "USER_PROFILE_ABOUT_ME_HEADING_TEXT": [
       "#8f8f8f",
@@ -2037,31 +2037,6 @@
     "PRIMARY_900": "#010101",
     "WHITE_500": "#ffffff",
     "BLACK_500": "#000000"
-  },
-  "plus": {
-    "version": "0",
-    "customOverlays": true,
-    "mentionLineColor": "#e0b56a",
-    "icons": {
-      "ic_radio_circle_checked": "#7ad7c2",
-      "ic_radio_circle_checked__overlay": "#000000",
-      "ic_radio_square_24px": "#7ad7c2",
-      "ic_radio_square_checked_24px": "#7ad7c2",
-      "ic_radio_square_checked_24px__overlay": "#000000",
-      "ic_selection_checked_24px": "#7ad7c2",
-      "ic_selection_checked_24px__overlay": "#000000",
-      "StatusMobileOnline": "#7ad7c2",
-      "StatusOnline": "#7ad7c2",
-      "StatusIdle": "#e0b56a",
-      "StatusDND": "#e06c6c",
-      "StatusOffline": "#575757",
-      "StatusStreaming": "#b9a6e6"
-    }
-  },
-  "background": {
-    "url": "https://raw.githubusercontent.com/Voidlax/Themes/main/voidlax-v4-bg.png",
-    "blur": 0,
-    "alpha": 1
   },
   "spec": 2
 }
